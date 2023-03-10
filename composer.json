@@ -1,6 +1,7 @@
 {
     "name": "fedorishko-anton/component-a",
     "description": "A contact form package for laravel",
+    "version": "1.0.0",
     "authors": [{
         "name": "fedorishko-anton",
         "email": "antonfedorishko17@gmail.com"
