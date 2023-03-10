@@ -1,0 +1,9 @@
+{
+    "name": "alva/component-a",
+    "autoload": {
+        "psr-4": {
+            "Alva\\ComponentA\\": "src/"
+        }
+    },
+    "require": {}
+}
