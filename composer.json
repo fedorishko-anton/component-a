@@ -1,7 +1,7 @@
 {
     "name": "fedorishko-anton/component-a",
     "description": "A contact form package for laravel",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [{
         "name": "fedorishko-anton",
