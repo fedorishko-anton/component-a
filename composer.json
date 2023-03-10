@@ -2,6 +2,7 @@
     "name": "fedorishko-anton/component-a",
     "description": "A contact form package for laravel",
     "version": "1.0.0",
+    "license": "MIT",
     "authors": [{
         "name": "fedorishko-anton",
         "email": "antonfedorishko17@gmail.com"
@@ -11,5 +12,6 @@
             "Alva\\ComponentA\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
