@@ -1,5 +1,10 @@
 {
     "name": "alva/component-a",
+    "description": "A contact form package for laravel",
+    "authors": [{
+        "name": "fedorishko-anton",
+        "email": "antonfedorishko17@gmail.com"
+    }],
     "autoload": {
         "psr-4": {
             "Alva\\ComponentA\\": "src/"
